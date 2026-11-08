@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/
+__MACOSX/
+.git/
+.gitignore
+*.md
+diagnose.py
+download_data.py
+test_inference.py
+train_model.py
+src/
+

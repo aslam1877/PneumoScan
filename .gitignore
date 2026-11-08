@@ -1,0 +1,19 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
+__MACOSX/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Images (uploaded/temp)
+uploads/
